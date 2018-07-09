@@ -20,6 +20,11 @@ def left foot
       3. Finishing with a **small skip-step** backward"
 end
 
+
+stance
+bust_move
+
+
 # def gangnam_style
 #   puts "right foot"
 #   puts "left foot"
