@@ -33,6 +33,6 @@ def gangnam_style(right, left)
   left
 end
 
-gangnam_style(right, left)
+gangnam_style(right, left, right, right, left)
 
 
