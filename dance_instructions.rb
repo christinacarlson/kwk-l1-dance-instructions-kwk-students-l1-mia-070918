@@ -24,6 +24,6 @@ def gangnam_style
   left
 end
 
-gangnam_style(right, left, right, right, left)
+#gangnam_style(right, left, right, right, left)
 
 
