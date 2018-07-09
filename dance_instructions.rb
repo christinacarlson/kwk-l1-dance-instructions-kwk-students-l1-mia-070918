@@ -22,7 +22,7 @@ end
 
 
 
-def gangnam_style(left, right)
+def gangnam_style(right, left)
   right 
   left
   right
