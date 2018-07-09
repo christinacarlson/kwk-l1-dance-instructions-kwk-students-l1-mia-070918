@@ -11,6 +11,9 @@ def gangnam style
   
 end
 
+
+
+
 1. Assume stance
 2. Bust a move
 3. Footwork
