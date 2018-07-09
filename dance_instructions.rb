@@ -8,7 +8,14 @@ puts "Footwork: 1. Lift right foot
       3. Finishing with a **small skip-step** backward"
 puts 
 def gangnam style
-  
+  R
+  L
+  R
+  R
+  L
+  R
+  L
+  L
 end
 
 
