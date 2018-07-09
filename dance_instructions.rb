@@ -20,16 +20,16 @@ def left foot
       3. Finishing with a **small skip-step** backward"
 end
 
-def gangnam_style
-  puts "right foot"
-  puts "left foot"
-  puts "right foot"
-  puts "right foot"
-  puts "left foot"
-  puts "right foot"
-  puts "left foot"
-  puts "left foot"
-end
+# def gangnam_style
+#   puts "right foot"
+#   puts "left foot"
+#   puts "right foot"
+#   puts "right foot"
+#   puts "left foot"
+#   puts "right foot"
+#   puts "left foot"
+#   puts "left foot"
+# end
 
 gangnam_style
 
