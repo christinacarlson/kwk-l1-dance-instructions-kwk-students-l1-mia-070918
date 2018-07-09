@@ -20,6 +20,10 @@ puts "1. Lift left foot
       3. Finishing with a **small skip-step** backward"
 end
 
+def gangnam_style
+  left
+end
+
 gangnam_style(right, left, right, right, left)
 
 
