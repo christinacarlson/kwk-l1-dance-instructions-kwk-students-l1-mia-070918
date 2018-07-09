@@ -21,10 +21,17 @@ puts "1. Lift left foot
 end
 
 def gangnam_style
+  right
+  left
+  right
+  right
+  left
+  right
+  left
   left
 end
 
 gangnam_style
-#gangnam_style(right, left, right, right, left)
+
 
 
