@@ -21,20 +21,17 @@ def left foot
 end
 
 
-stance
-bust_move
 
-
-# def gangnam_style
-#   puts "right foot"
-#   puts "left foot"
-#   puts "right foot"
-#   puts "right foot"
-#   puts "left foot"
-#   puts "right foot"
-#   puts "left foot"
-#   puts "left foot"
-# end
+def gangnam_style
+  puts "right foot"
+  puts "left foot"
+  puts "right foot"
+  puts "right foot"
+  puts "left foot"
+  puts "right foot"
+  puts "left foot"
+  puts "left foot"
+end
 
 gangnam_style
 
