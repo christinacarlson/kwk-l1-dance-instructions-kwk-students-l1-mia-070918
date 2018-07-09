@@ -5,8 +5,7 @@ puts "Plant legs far apart, bend knees slightly and keep posture loose"
 end 
 
 def bust_move
-puts "Be cool. Be snazzy
-!"
+puts "Be cool. Be snazzy!"
 end
 
 def right foot
