@@ -1,9 +1,9 @@
 def starting_stance
-puts "Plant legs far apart, bend knees slightly and keep posture loose"
+  puts "Plant legs far apart, bend knees slightly and keep posture loose"
 end 
 
 def skip_step
-  puts
+  puts 
 
 def bust_move
 puts "Be cool. Be snazzy!"
