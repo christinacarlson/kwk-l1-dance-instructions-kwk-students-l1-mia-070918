@@ -4,6 +4,7 @@ end
 
 def skip_step
   puts "skip a step (lower, bounce, briefly)"
+end
 
 def bust_move
 puts "Be cool. Be snazzy!"
