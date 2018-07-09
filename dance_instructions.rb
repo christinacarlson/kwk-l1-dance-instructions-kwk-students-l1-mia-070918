@@ -1,8 +1,13 @@
 
 # Code your methods below
-puts "Assume stance: Plant legs far apart, bend knees slightly and keep posture loose"
-puts "Bust a move: Be cool. Be snazzy
+def stance
+puts "Plant legs far apart, bend knees slightly and keep posture loose"
+end 
+
+def bust_move
+puts "Be cool. Be snazzy
 !"
+end
 
 def right foot
 puts  "1. Lift right foot
