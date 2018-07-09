@@ -15,7 +15,7 @@ puts  "1. Lift right foot
 end
 
 def left
-      "1. Lift left foot
+ puts "1. Lift left foot
       2. Return left foot to the ground
       3. Finishing with a **small skip-step** backward"
 end
