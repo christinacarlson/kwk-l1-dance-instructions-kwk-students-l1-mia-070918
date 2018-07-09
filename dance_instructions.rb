@@ -17,16 +17,17 @@ def left foot
 end
 
 def gangnam_style
-  right foot
-  left foot
-  right foot
-  right foot
-  left foot
-  right foot
-  left foot
-  left foot
+  puts "right foot"
+  puts "left foot"
+  puts "right foot"
+  puts "right foot"
+  puts "left foot"
+  puts "right foot"
+  puts "left foot"
+  puts "left foot"
 end
 
+gangnam_style
 
 
 
