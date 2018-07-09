@@ -9,13 +9,13 @@ puts "Be cool. Be snazzy!"
 end
 
 def right
-puts  "1. Lift right foot
+puts "1. Lift right foot
       2. Return right foot to the ground
       3. Finishing with a **small skip-step** backward"
 end
 
 def left
- puts "1. Lift left foot
+puts "1. Lift left foot
       2. Return left foot to the ground
       3. Finishing with a **small skip-step** backward"
 end
@@ -33,6 +33,6 @@ def gangnam_style(right, left)
   left
 end
 
-gangnam_style(left, right)
+gangnam_style(right, left)
 
 
