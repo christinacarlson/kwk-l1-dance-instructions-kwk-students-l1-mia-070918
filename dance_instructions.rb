@@ -23,7 +23,14 @@ end
 
 
 def gangnam_style(left, right)
-  
+  right 
+  left
+  right
+  right
+  left
+  right
+  left
+  left
 end
 
 gangnam_style
