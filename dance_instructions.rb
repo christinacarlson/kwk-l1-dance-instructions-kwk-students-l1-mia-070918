@@ -3,7 +3,7 @@ def starting_stance
 end 
 
 def skip_step
-  puts 
+  puts "skip a step (lower, bounce, briefly)"
 
 def bust_move
 puts "Be cool. Be snazzy!"
